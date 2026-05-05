@@ -1,0 +1,11 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (ігноруємо великі датасети)
+*.csv
+*.xlsx
+*.zip
+
+# Python environment (якщо створював віртуальне середовище)
+venv/
+__pycache__/
