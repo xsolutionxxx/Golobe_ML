@@ -2,7 +2,7 @@
 .ipynb_checkpoints/
 
 # Data files (ігноруємо великі датасети)
-*.csv
+# *.csv
 *.xlsx
 *.zip
 
